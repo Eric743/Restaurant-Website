@@ -1,0 +1,186 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 100%;
+  margin: px px;
+}
+
+.meta {
+  list-style-type: none;
+  margin-right: 20px;
+  margin-top: 50px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+li a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+li a:hover {
+  color: red;
+  border-bottom: 2px solid red;
+}
+
+li {
+  float: left;
+}
+
+menu1 {
+  margin-right: 50px;
+}
+
+.menuHeader_logo {
+  display: flex;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.menuHeader_title {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.mm {
+  width: 99px;
+  height: 79px;
+}
+
+.parent_jumbotron {
+  height: 500px;
+  width: 100%;
+  /* background-color: black; */
+  border: 1px solid silver;
+}
+
+.ypb {
+  width: 100%;
+  height: 100%;
+}
+
+.mnb {
+  width: 49.7%;
+  height: 900px;
+  
+}
+
+.dd {
+  border: 1px solid black;
+  background-color: grey;
+  padding: 15px;
+  color: white;
+  cursor: pointer;
+  width: 350px;
+  margin-left: 50%;
+  position: absolute;
+  bottom: 12px;
+}
+
+.rr {
+  width: 100%;
+}
+
+table,
+th,
+tr,
+td {
+  border: 0.5px solid rgb(0, 0, 0);
+  border-collapse: collapse;
+  text-align: center;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+table {
+  width: 100%;
+  height: 5px;
+  padding: 1px;
+
+  th {
+    color: black;
+  }
+
+  .dg {
+    border: 1px solid black;
+    background-color: grey;
+    padding: 15px;
+    color: white;
+    cursor: pointer;
+    width: 350px;
+    margin-left: 35%;
+    margin-top: 50px;
+    position: absolute;
+  }
+
+  .ds {
+    text-align: center;
+    padding: 50px;
+  }
+
+  .ee {
+    color: black;
+  }
+
+  #cvs {
+    width: 100%;
+    height: 300px;
+    border: 2px solid grey;
+  }
+
+  th {
+    background-color: black;
+  }
+
+  td {
+    background-color: grey;
+  }
+
+  .fr {
+    width: 100px;
+    height: 80px;
+    background-color: darkgrey;
+    text-align: center;
+  }
+
+
+#ss {
+  width: 370pxs;
+}
+
+.arg {
+  border: 1px solid black;
+  background-color: blue;
+  padding: 15px;
+  color: white;
+  cursor: pointer;
+  width: 350px;
+  margin-left: 35%;
+  margin-top: 50px;
+  position: absolute;
+}
+
+input {
+  width: 100%;
+  padding: 20px;
+}
+
+#bvs {
+  width: 200px;
+}
+
+#e3 {
+  align-self: left;
+}
+
+input {
+  width: 100%;
+  padding: 20px;
+}
+
+move {
+  position: ;
+}
